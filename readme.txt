@@ -6,3 +6,6 @@ This should bring up the mini piano gui featuring shift octave buttons, recordin
 
 Check out this video to see how it works:
 https://youtu.be/FWijYP5XaG0
+
+
+[![Stock Screener](https://yt-embed.herokuapp.com/embed?v=FWijYP5XaG0)](https://www.youtube.com/watch?v=FWijYP5XaG0 "Stock Screener")
